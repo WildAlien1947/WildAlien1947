@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WildAlien1947
+- 👋 Hi, I’m @WildAlien1947 but you can call me Nathan or Nate 😀
 - 👀 I’m interested in making unblocked website for school chromebooks that have GoGuardian on them
 - 🌱 I’m currently learning HTML code.
 - 📫 How to reach me: nathankrevitz5@gmail.com (I used a fake email for my Github Account)

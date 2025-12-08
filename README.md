@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WildAlien1947 but you can call me Nathan or Nate 😀
-- 👀 I’m interested in making unblocked website for school chromebooks that have GoGuardian on them
+- 👀 I’m interested in making unblocked websites for school chromebooks that have GoGuardian on them
 - 🌱 I’m currently learning HTML code.
 - 📫 How to reach me on tawk.to on my website: <a href="https://sites.google.com/philasd.org/huihub/things/chat-with-me-after-school-hours"> click here </a>
 - 😄 Pronouns: him, his
